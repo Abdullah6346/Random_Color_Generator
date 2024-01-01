@@ -10,4 +10,3 @@ function getrandomcolor() {
 
 I have written this function to create random colours . 
 I have used hex colour codes but other colour schemes such as Rgba and HSl can also be used
-hello
